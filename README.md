@@ -2,7 +2,7 @@
 
 # О шаблоне
 
-Данный шаблон ничего не меняет в логике [Create React App](https://github.com/facebook/create-react-app), а лишь расширяет его, подготавливая основу для работы "из коробки", в качестве центральщованного хранилища данных испрользуется [MobX](https://mobx.js.org/), в качестве препроцессора [SASS](https://sass-scss.ru), а так-же, для реализации SPA используется [React Router](https://reactrouter.com/)
+Данный шаблон ничего не меняет в логике [Create React App](https://github.com/facebook/create-react-app), а лишь расширяет его, подготавливая основу для работы "из коробки", в качестве централизованного хранилища данных испрользуется [MobX](https://mobx.js.org/), в качестве препроцессора [SASS](https://sass-scss.ru), а так-же, для реализации SPA используется [React Router](https://reactrouter.com/)
 
 # Используемые технологии
 
